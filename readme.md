@@ -1,29 +1,25 @@
-# This is a large heading
+# Al Amin Khan
 
-## This is a smaller heading
+### BMB
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in tangail, Bangladesh..
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Six graves to munich* by mario puzo
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Behind his lie* by sandi lynn
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. The palace in Hobigong
+2. Roseview in Sylhet
+3. LA meridian in Dhaka
 
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/alamin58442055).
